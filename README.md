@@ -16,9 +16,17 @@
     Click <a href= "https://uniroma1it-my.sharepoint.com/personal/croella_1544694_studenti_uniroma1_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcroella%5F1544694%5Fstudenti%5Funiroma1%5Fit%2FDocuments%2FDocumenti%2FEsercizi%5Fingegneria%2FLab%20RO%2FAltro%2FSAT%20material%2FSAT%20LogicaEco%20ITA%202023%2FCase%2D%2D%2DOptimizing%2DFood%2DDonation%2DDelivery%2Dfor%2DNonprofit%2DCompany&ga=1">here</a> to download it.
 </p>
 <p>
-    The application is compatible with both Windows and MacOS platforms, with two versions of SoS available in the application folders SoS_win and SoS_mac.
+    The application is compatible with Windows and macOS platforms, with two versions of SoS available in the application folders SoS_win and SoS_mac*.
 </p>
 
+<p align="right"><sup>
+    *put the app in quarantine on macOS platforms by running the following command in a terminal:
+    <br>
+    xattr -d com.apple.quarantine your/path/to/SoS/SoS_mac.app
+</sup></p>
+<p>
+    
+</p>
 <p align="center">
 <img width="531" alt="Figure1" src="https://github.com/AnnaLivia/Case---Optimizing-Food-Donation-Delivery-for-Nonprofit-Company/assets/46559408/b9345b35-3287-4a49-99a3-5e317cba9765">
 </p>
@@ -47,7 +55,7 @@ A file named <em>Data.txt</em>, summarizing all data reported in <em>Data.xlsx</
 The <em>input</em> folder contains solution-alike </em>.txt</em> files.  To evaluate the quality of a proposed solution, this folder must be populated with the solution data by the users.
 
 #### Output
-The <em>\output</em> folder is the target folder for the simulation reports. After a simulation, the <em>\output</em> folder is automatically populated with a variable summary file and a report.
+The <em>output</em> folder is the target folder for the simulation reports. After a simulation, the <em>\output</em> folder is automatically populated with a variable summary file and a report.
 
 ## How to use SoS
 <p>
