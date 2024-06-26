@@ -6,18 +6,14 @@
 
 **SoS** is an offline application for the case presented in
 
-> A.L. Croella, M. Gregori, Case---Optimizing-Food-Donation-Delivery-for-Nonprofit-Company 
-> to appear.
-<br />
+> A.L. Croella, M. Gregori, Case---Optimizing-Food-Donation-Delivery-for-Nonprofit-Company to appear
 
-<p>
-    SoS is an offline application created using CustomTkinter, a Python UI library
-    (<a href="https://github.com/TomSchimansky/CustomTkinter">https://github.com/TomSchimansky/CustomTkinter</a>). 
-    Click <a href= "https://uniroma1it-my.sharepoint.com/personal/croella_1544694_studenti_uniroma1_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcroella%5F1544694%5Fstudenti%5Funiroma1%5Fit%2FDocuments%2FDocumenti%2FEsercizi%5Fingegneria%2FLab%20RO%2FAltro%2FSAT%20material%2FSAT%20LogicaEco%20ITA%202023%2FCase%2D%2D%2DOptimizing%2DFood%2DDonation%2DDelivery%2Dfor%2DNonprofit%2DCompany&ga=1">here</a> to download it.
-</p>
-<p>
-    The application is compatible with Windows and macOS platforms, with two versions of SoS available in the application folders SoS_win and SoS_mac.
-</p>
+<br>
+
+SoS is an offline application created using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), a Python UI library. 
+Click [here](https://uniroma1it-my.sharepoint.com/personal/croella_1544694_studenti_uniroma1_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcroella%5F1544694%5Fstudenti%5Funiroma1%5Fit%2FDocuments%2FDocumenti%2FEsercizi%5Fingegneria%2FLab%20RO%2FAltro%2FSAT%20material%2FSAT%20LogicaEco%20ITA%202023%2FCase%2D%2D%2DOptimizing%2DFood%2DDonation%2DDelivery%2Dfor%2DNonprofit%2DCompany&ga=1) to download it.
+<br>
+The application is compatible with Windows and macOS platforms.
 
 > [!IMPORTANT]
 > On macOS put the app in quarantine platforms by running the following command in a terminal:<br>
