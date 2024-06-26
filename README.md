@@ -28,7 +28,7 @@ The application is compatible with Windows and macOS platforms.
 
 <p align="center"><b>Figure1:</b> SoS Home Frame.</p>
 
-Each application needs three folders to be run: <em>data</em>, <em>input</em> and <em>output</em>.
+SoS needs three folders to be run: <em>data</em>, <em>input</em> and <em>output</em>.
 
 #### Data
 The <em>data</em> folder contains an Excel file named <em>Data.xlsx</em> with all the data required to model the Logica&Co problem. It includes:
