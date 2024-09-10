@@ -11,7 +11,7 @@
 <br>
 
 SoS is an offline application created using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), a Python UI library. 
-Click [here](https://uniroma1it-my.sharepoint.com/personal/croella_1544694_studenti_uniroma1_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcroella%5F1544694%5Fstudenti%5Funiroma1%5Fit%2FDocuments%2FDocumenti%2FEsercizi%5Fingegneria%2FLab%20RO%2FAltro%2FSAT%20material%2FSAT%20LogicaEco%20ITA%202023%2FCase%2D%2D%2DOptimizing%2DFood%2DDonation%2DDelivery%2Dfor%2DNonprofit%2DCompany&ga=1) to download it.
+Click [here](https://uniroma1it-my.sharepoint.com/:f:/g/personal/croella_1544694_studenti_uniroma1_it/Elyvsz3bjClBoFEhHI0Ff5kB2QqCcwYiOCmAqz0vxt8FvA?e=gxSzC6) to download it.
 <br>
 The application is compatible with Windows and macOS platforms.
 
