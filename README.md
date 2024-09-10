@@ -43,7 +43,7 @@ The <em>data</em> folder contains an Excel file named <em>Data.xlsx</em> with al
     <li> a list of supplementary parameters and coefficients (sheet <em>Additional Parameters</em>).</li>
 </ul>
 <p>
-A file named <em>Data.txt</em>, summarizing all data reported in <em>Data.xlsx</em> in a text file, can also be generated using a SoS command <code>|**Print**|</code>.
+A file named <em>Data.txt</em>, summarizing all data reported in <em>Data.xlsx</em> in a text file, can also be generated using a SoS command <code>Print</code>.
 </p>
 
 #### Input
